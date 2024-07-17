@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Dive into the ultimate crime-solving adventure with Kill: Conan Edition. Sharpen your wits and uncover the mysteries.",
+        "title": "Unleash Your Inner Detective"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Dive into the ultimate crime-solving adventure with Kill: Conan Edition. Sharpen your wits and uncover the mysteries.",
+        "title": "Unleash Your Inner Detective"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Dive into the ultimate crime-solving adventure with Kill: Conan Edition. Sharpen your wits and uncover the mysteries.",
+        "title": "Unleash Your Inner Detective"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into the ultimate crime-solving adventure with Kill: Conan Edition. Sharpen your wits and uncover the mysteries.",
+        "title": "Unleash Your Inner Detective"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into the ultimate crime-solving adventure with Kill: Conan Edition. Sharpen your wits and uncover the mysteries.",
+        "title": "Unleash Your Inner Detective"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into the ultimate crime-solving adventure with Kill: Conan Edition. Sharpen your wits and uncover the mysteries.",
+        "title": "Unleash Your Inner Detective"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into the ultimate crime-solving adventure with Kill: Conan Edition. Sharpen your wits and uncover the mysteries.",
+        "title": "Unleash Your Inner Detective"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into the ultimate crime-solving adventure with Kill: Conan Edition. Sharpen your wits and uncover the mysteries.",
+        "title": "Unleash Your Inner Detective"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into the ultimate crime-solving adventure with Kill: Conan Edition. Sharpen your wits and uncover the mysteries.",
+        "title": "Unleash Your Inner Detective"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unleash Your Inner Detective",
+  "subtitle": "Dive into the ultimate crime-solving adventure with Kill: Conan Edition. Sharpen your wits and uncover the mysteries."
+}
